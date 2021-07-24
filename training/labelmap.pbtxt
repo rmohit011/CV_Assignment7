@@ -1,0 +1,220 @@
+item {
+  id: 1
+  name: 'cat_Abyssinian'
+}
+
+
+item {
+  id: 2
+  name: 'cat_Bengal'
+}
+
+
+item {
+  id: 3
+  name: 'cat_Birman'
+}
+
+
+item {
+  id: 4
+  name: 'cat_Bombay'
+}
+
+
+item {
+  id: 5
+  name: 'cat_British_Shorthair'
+}
+
+
+item {
+  id: 6
+  name: 'cat_Egyptian_Mau'
+}
+
+
+item {
+  id: 7
+  name: 'cat_Maine_Coon'
+}
+
+
+item {
+  id: 8
+  name: 'cat_Persian'
+}
+
+
+item {
+  id: 9
+  name: 'cat_Ragdoll'
+}
+
+
+item {
+  id: 10
+  name: 'cat_Russian_Blue'
+}
+
+
+item {
+  id: 11
+  name: 'cat_Siamese'
+}
+
+
+item {
+  id: 12
+  name: 'cat_Sphynx'
+}
+
+
+item {
+  id: 13
+  name: 'dog_american_bulldog'
+}
+
+
+item {
+  id: 14
+  name: 'dog_american_pit_bull_terrier'
+}
+
+
+item {
+  id: 15
+  name: 'dog_basset_hound'
+}
+
+
+item {
+  id: 16
+  name: 'dog_beagle'
+}
+
+
+item {
+  id: 17
+  name: 'dog_boxer'
+}
+
+
+item {
+  id: 18
+  name: 'dog_chihuahua'
+}
+
+
+item {
+  id: 19
+  name: 'dog_english_cocker_spaniel'
+}
+
+
+item {
+  id: 20
+  name: 'dog_english_setter'
+}
+
+
+item {
+  id: 21
+  name: 'dog_german_shorthaired'
+}
+
+
+item {
+  id: 22
+  name: 'dog_great_pyrenees'
+}
+
+
+item {
+  id: 23
+  name: 'dog_havanese'
+}
+
+
+item {
+  id: 24
+  name: 'dog_japanese_chin'
+}
+
+
+item {
+  id: 25
+  name: 'dog_keeshond'
+}
+
+
+item {
+  id: 26
+  name: 'dog_leonberger'
+}
+
+
+item {
+  id: 27
+  name: 'dog_miniature_pinscher'
+}
+
+
+item {
+  id: 28
+  name: 'dog_newfoundland'
+}
+
+
+item {
+  id: 29
+  name: 'dog_pomeranian'
+}
+
+
+item {
+  id: 30
+  name: 'dog_pug'
+}
+
+
+item {
+  id: 31
+  name: 'dog_saint_bernard'
+}
+
+
+item {
+  id: 32
+  name: 'dog_samoyed'
+}
+
+
+item {
+  id: 33
+  name: 'dog_scottish_terrier'
+}
+
+
+item {
+  id: 34
+  name: 'dog_shiba_inu'
+}
+
+
+item {
+  id: 35
+  name: 'dog_staffordshire_bull_terrier'
+}
+
+
+item {
+  id: 36
+  name: 'dog_wheaten_terrier'
+}
+
+
+item {
+  id: 37
+  name: 'dog_yorkshire_terrier'
+}
